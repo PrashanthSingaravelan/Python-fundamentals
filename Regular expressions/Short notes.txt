@@ -1,0 +1,11 @@
+\w => Alphanumerical including '_'
+\W => Non alphanumericals
+
+\d => Integers
+\D => Non-integers
+
+\s => white space
+\S => Non white space
+
+\b => Finds the match at the beginning/end of the word
+\B => Not Finds the match at the beginning/end of the word

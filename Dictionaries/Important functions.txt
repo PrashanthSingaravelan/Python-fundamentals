@@ -1,0 +1,6 @@
+1) nlargest(Number of individual  , Things to find out , Number of items to )
+              dictionary pairs                           get at every stage
+
+2) get (The key of the value to retrieve , Fallback value to return if the key doesn't exist)
+
+3) setdefault (key to check for, value to set at that key if the key does not exist)

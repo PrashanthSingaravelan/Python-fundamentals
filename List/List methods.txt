@@ -1,0 +1,12 @@
+1) append() : list.append(element)  : 
+2) insert() : list.insert(position,element)
+3) extend() : list1.extend(list2)
+4) sum()    : sum(list1)
+5) count()  : list1.count(element)  : Calculates total occurences of each element in the list.
+6) len()    : len(list1)            : Calculates the total length of the string.
+7) index()  : list.index(element)   : Returns the index of the first occurence.
+8) min()    : min(list1)            : Calculates the minimum of all the elements in the list.
+9) max()    : max(list1)            : Calculates the maximum of all the elements in the list.
+10) pop()   : list1.pop(index)      : Index is not a necessary parameter, if not mentioned takes the last index.
+11) del()   : del list1[0]          : Element to be deleted is mentioned using list name and index.
+12) remove(): list1.remove(element)  : Element to be deleted is mentioned using list name and element.

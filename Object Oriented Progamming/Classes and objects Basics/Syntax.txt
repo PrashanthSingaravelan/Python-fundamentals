@@ -1,0 +1,6 @@
+class Dog:
+     def_init_(self,param):
+     self.my_attribute=param
+
+obj1=Dog(param="Lab")
+print(obj1.breed)

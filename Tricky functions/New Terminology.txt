@@ -1,0 +1,10 @@
+1) end=" " is just to say that you want a space after the end of the statement instead of a new line character.
+By default python's print() ends with a new line.
+if you put end=" " at the end of the print() then the curso remains in the same line itself.
+Eg : 
+print("Welcome to" , end = ' ')  
+print("GeeksforGeeks", end = ' ') 
+
+Output => Welcome to GeeksforGeeks 
+
+2) print() : This is used instead print("\n")

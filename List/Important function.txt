@@ -1,0 +1,10 @@
+1)insert () => To insert an element inbetween a list
+insert(index_position, element)
+
+2)eval()            => Takes the given string as a integer
+
+3)map(type,strings) => Returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.) 
+
+4)import numpy as np
+
+5)get()

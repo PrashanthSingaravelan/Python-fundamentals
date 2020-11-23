@@ -1,0 +1,10 @@
+class Computer
+     def
+
+
+
+
+
+
+obj1=Computer("i5",8)
+obj2=Computer("Ryzens",16)

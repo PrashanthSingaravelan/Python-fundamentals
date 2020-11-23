@@ -1,0 +1,9 @@
+%M => Minutes
+%Y => Year
+%H => Hour
+%S => Seconds
+%B => Month(fullform) Eg:September
+
+%m => month
+%d => day
+%b => month(short) Eg:Sep
